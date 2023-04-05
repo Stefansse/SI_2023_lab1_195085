@@ -1,0 +1,28 @@
+1. Instalirav git i napraviv profil
+2. Grankata ja promeniv od main vo master
+3. Kreirav direktorium imenuvan SI_2023_lab1_195085 i go postaviv privaten
+4. Napraviv i lokalno so isto ime, vlegov vo nego i napisav git init
+5. So komanda git add origin https://github.com/Stefansse/SI_2023_lab1_195085
+6. So nano README.MD kreirav README fajl i vo nego go napisav moeto ime,prezime i indeks, so git add go dodadov vo stage faza i potoa so git commit -m "initial commit" go komitnav
+7. Dodadov fajl so nano SILab1.java kade vo nego ja smestiv sodrzinata od drugata klasa, napraviv git add na fajlot i potoa git commit -m "Add java class"
+8. Napraviv git push origin master
+9. Otvoriv 3 granski so pomos na git branch bug1, git branch bug2, git branch bug3
+10. So git checkout se prefrliv od master grankata na bug1
+11. Ja popraviv greskata vo klasata i so komandata git commit -a -m "Fix wrong loop for reading"koja raboti samo vo slucaj koga imame modified file ili veke staged ja komitnuvam
+12. git checkout bug2 za da se prefrlam na grankta bug2
+13. Ja popravam greskata vo klasata i so istata komanda kako vo cekor 11 ja komitnuvam
+14. git checkout bug3 se prefrluvam na grankta bug3
+15. isto kako vo cekor 13 i 11(sreduvam greska vo klasata, i pravam commit)
+16. pravam git push origin --all
+17. git checkout master se prefrluvam na grankata master
+18. git merge so grankata master i toa mi dava fastforward tip na merge
+19. push origin --all za sinhronizacija
+20. git merge bug2 i tuka mi se pojavuva prozorec kade so koristenje na :wq izgleguvam i pravam recursive merge
+21. git push origin --all za sinhronizacija
+22. git checkout bug3 se prefrluvam od master grankata na bug3
+23. git rebase master-> pravam rebase od bug3 kon master
+24. pravam gitcheckout master se preflruvam na master grankata
+25. pravam git merge bug3 i toa mi dava fastforward tip na merge
+26. za sinhroniajaca koristam nvoa komanda git push --all --force kade so pomos na force komandata pravam sinhroniacija
+27. so pomos na git log mi gi dava site logovi, a so pomos na nano logs.txt gi smestuvam site tie logovi vo txt file. Dodavanje na datotekata 195085.txt so nano 195085.txt i so git add, kako i podcona git commit -m "Final commit" za da mi se stavat i logs i index vo eden commit so ist tekst
+28. pravam git push origin master

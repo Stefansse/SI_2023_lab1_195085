@@ -1,0 +1,47 @@
+commit 2238a8497299583dbdbd42592606e6d2ff8171bc (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:50:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ef94fb8cde1f4ac3a9ef01096bc273012570cf96
+Merge: f1252b4 da2e3b6
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:51:04 2023 +0200
+
+    Merge branch 'bug2'
+
+commit da2e3b6b63e809f127849d412276835cf6ed06aa (origin/bug2, bug2)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:49:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit f1252b4df334bf6ab8f9b5e1b1356e24ae8c15df (origin/bug1, bug1)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:48:54 2023 +0200
+
+sstos@DESKTOP-Q2DO8ST MINGW64 /d/finki/SI/SI_2023_lab1_195085 (master)
+$ git log
+commit 2238a8497299583dbdbd42592606e6d2ff8171bc (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:50:12 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit ef94fb8cde1f4ac3a9ef01096bc273012570cf96
+Merge: f1252b4 da2e3b6
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:51:04 2023 +0200
+
+    Merge branch 'bug2'
+
+commit da2e3b6b63e809f127849d412276835cf6ed06aa (origin/bug2, bug2)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:49:36 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit f1252b4df334bf6ab8f9b5e1b1356e24ae8c15df (origin/bug1, bug1)
+Author: Stefansse <sfnn.stoshevski@gmail.com>
+Date:   Wed Apr 5 22:48:54 2023 +0200
